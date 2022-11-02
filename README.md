@@ -1,7 +1,7 @@
 Our project handwritten digit recognition is built using Neural Networks and TensorFlow in Python.
 TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.
 
-Step-by-Step Process
+Step-by-Step Process:
 We have imported 4 essential libraries: 
  	cv2 – open cv library (which we need to import our own images). We first install it in CommandPromt with the command pip install opencv-python 
  	numpy
